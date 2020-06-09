@@ -26,10 +26,9 @@ Stack Overflow can be checked to prevent server from crashing!<br />
 2.检测人物周围储物容器(包括箱子、上锁安全箱、熔炉工作台等等), 检测物品可自定义。<br />
 <br />
 3.God buff detection<br />
-3.检测上帝模式。<br />  
-<br />
-4.Invisible mode detection  <br />
-4.检测隐身模式。  <br />
+3.检测上帝模式。<br />
+4.Invisible mode detection<br />
+4.检测隐身模式。<br />
 <br />
 5.check stack overflow of items in players' profile and loots  <br />
 5.检测人物档案中的物品超叠和地图储物容器中的物品超叠。<br />
