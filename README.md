@@ -27,7 +27,7 @@ Stack Overflow can be checked to prevent server from crashing!<br />
 <br />
 3.God buff detection <br />
 3.检测上帝模式。 <br />  
-  <br />
+<br />
 4.Invisible mode detection  <br />
 4.检测隐身模式。  <br />
 <br />
