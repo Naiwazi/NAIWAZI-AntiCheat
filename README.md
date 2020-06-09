@@ -25,8 +25,8 @@ Stack Overflow can be checked to prevent server from crashing!<br />
 2.Check loots ( including boxes, secure boxes, forge workstations and so on ) around players, you can set the items as you wish.<br />
 2.检测人物周围储物容器(包括箱子、上锁安全箱、熔炉工作台等等), 检测物品可自定义。<br />
 <br />
-3.God buff detection <br />
-3.检测上帝模式。 <br />  
+3.God buff detection<br />
+3.检测上帝模式。<br />  
 <br />
 4.Invisible mode detection  <br />
 4.检测隐身模式。  <br />
