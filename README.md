@@ -41,3 +41,6 @@ Stack Overflow can be checked to prevent server from crashing!<br />
 <br />
 NOTE:<br />
 Invisible mode detection need cheaters load the a new chunk. Fly mode detection is in testing, do not enable it in this version.<br />
+<br />
+联系方式: shyerzone@gmail.com <br />
+Contact: shyerzone@gmail.com <br />
