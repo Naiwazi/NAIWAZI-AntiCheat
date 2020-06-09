@@ -15,6 +15,9 @@ Stack Overflow can be checked to prevent server from crashing!<br />
 Paramters can be set by yourself, and log files will show you the details of what happend <br />
 可自由设置反作弊的各种参数, 日志文件会记录下每一个细节。<br />
 <br />
+Do not need any depends<br />
+不需要任何服主工具，GPS等插件的支持。<br />
+<br />
 <br />
 `Usage:`<br />
 `使用方法: `<br />
