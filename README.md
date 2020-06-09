@@ -19,8 +19,8 @@ Paramters can be set by yourself, and log files will show you the details of wha
 `Usage:`<br />
 `使用方法: `<br />
 <br />
-将`Naiwazi_AntiCheat`文件夹拷贝进服务端根目录的Mods文件夹, 运行服务端即可，第一次运行会在`存档根目录`生成 `naiwazi_anticheat_xxx.xml` 配置文件, 请参照配置文件中的注释耐心配置。<br /><br />
-Copy the folder `Naiwazi_AntiCheat` to GameFolder/Mods, then run the server. `naiwazi_anticheat_xxx.xml` will be generated in `GAME SAVING FOLDER` when you first run the mod. Please edit it carefully according to the comment.<br />
+将`Naiwazi_AntiCheat`文件夹拷贝进服务端根目录的Mods文件夹, 运行服务端即可，第一次运行会在`存档根目录`生成 `naiwazi_anticheat_xxx.xml` 配置文件, 请参照配置文件中的注释耐心配置, 默认的日志文件也会在同文件夹下生成<br /><br />
+Copy the folder `Naiwazi_AntiCheat` to GameFolder/Mods, then run the server. `naiwazi_anticheat_xxx.xml` will be generated in `GAME SAVING FOLDER` when you first run the mod. Please edit it carefully according to the comment. log files will also be generated in the same folder by default<br />
 <br />
 <br />
 `Base Features:`<br />
