@@ -1,13 +1,13 @@
 # NAIWAZI-AntiCheat For 7DTD A18.4 && NAIWAZI-反作弊 支持 七日杀A18.4
 
-This is a Anti-Cheat MOD for 7 Days to Die Dedicated Server
-这是一款用于七日杀服务器端的反作弊插件
-
-it can not only check players' inventory but also check the loots on map
-它不仅可以检测玩家的背包物品，还可以检测地图上的储物容器，包括储物箱，上锁储物箱，熔炉工作台等等
-
-GOD mode and INVISIBLE mode detection is also supported
-支持 上帝模式 和 隐身模式 的实时检测
+This is a Anti-Cheat MOD for 7 Days to Die Dedicated Server  
+这是一款用于七日杀服务器端的反作弊插件  
+  
+it can not only check players' inventory but also check the loots on map  
+它不仅可以检测玩家的背包物品，还可以检测地图上的储物容器，包括储物箱，上锁储物箱，熔炉工作台等等  
+  
+GOD mode and INVISIBLE mode detection is also supported  
+支持 上帝模式 和 隐身模式 的实时检测  
 
 Stack Overflow can be checked to prevent server from crashing!
 可以检测人物档和储物箱熔炉等地图容器中的物品超叠，防止超叠引起的服务器崩溃及红字。
