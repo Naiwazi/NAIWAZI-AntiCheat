@@ -12,8 +12,14 @@ GOD mode and INVISIBLE mode detection is also supported<br />
 Stack Overflow can be checked to prevent server from crashing!<br />
 可以检测人物档和储物箱熔炉等地图容器中的物品超叠,支持自动删除问题物品,防止超叠引起的服务器崩溃及红字。<br />
 <br />
-Stack Overflow can be checked to prevent server from crashing!<br />
-可以检测人物档和储物箱熔炉等地图容器中的物品超叠,支持自动删除问题物品,防止超叠引起的服务器崩溃及红字。<br />
+Paramters can be set by yourself, and log files will show you the details of what happend <br />
+可自由设置反作弊的各种参数, 日志文件会记录下每一个细节。<br />
+<br />
+<br />
+`Usage:`<br />
+`使用方法: `<br />
+将`Naiwazi_AntiCheat`文件夹拷贝进服务端根目录的Mods文件夹, 运行服务端即可，第一次运行会在`存档根目录`生成 `naiwazi_anticheat_xxx.xml` 配置文件, 请参照配置文件中的注释耐心配置。<br />
+Copy the folder `Naiwazi_AntiCheat` to GameFolder/Mods, then run the server. `naiwazi_anticheat_xxx.xml` will be generated in `GAME SAVING FOLDER` when you first run the mod. Please edit it carefully according to the comment.<br />
 <br />
 <br />
 `Base Features:`<br />
