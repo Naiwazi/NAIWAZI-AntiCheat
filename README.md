@@ -1,6 +1,6 @@
 # NAIWAZI-AntiCheat For 7DTD A18.4 && NAIWAZI-反作弊 支持 七日杀A18.4
 
-This is a Anti-Cheat MOD for 7 Days to Die Dedicated Server, [Download](https://github.com/Naiwazi/NAIWAZI-AntiCheat/releases/download/v1.0.0/Naiwazi_AntiCheat.zip)<br />
+This is an Anti-Cheat MOD for 7 Days to Die Dedicated Server, [Download](https://github.com/Naiwazi/NAIWAZI-AntiCheat/releases/download/v1.0.0/Naiwazi_AntiCheat.zip)<br />
 这是一款用于七日杀服务器端的反作弊插件, [点此下载](https://github.com/Naiwazi/NAIWAZI-AntiCheat/releases/download/v1.0.0/Naiwazi_AntiCheat.zip)<br />
  <br />
 `It can not only check players' inventory but also check the loots on map`<br />
@@ -13,7 +13,7 @@ Stack Overflow can be checked to prevent server from crashing!<br />
 可以检测人物档和储物箱熔炉等地图容器中的物品超叠,支持自动删除问题物品,防止超叠引起的服务器崩溃及红字。<br />
 <br />
 Paramters can be set by yourself, and log files will show you the details of what happend <br />
-可自由设置反作弊的各种参数, 日志文件会记录下每一个细节。<br />
+可自由设置反作弊的各种参数, 日志文件会记录下每一个细节, 另外还提供后台命令API方式(后台命令naiwazi_anticheat)，通过可登录TELNET的服主工具或者自用工具拉取信息。<br />
 <br />
 Do not need any depends<br />
 不需要任何服主工具，GPS等插件的支持。<br />
@@ -22,7 +22,9 @@ Do not need any depends<br />
 `Usage:`<br />
 `使用方法: `<br />
 <br />
-将`Naiwazi_AntiCheat`文件夹拷贝进服务端根目录的Mods文件夹, 运行服务端即可，第一次运行会在`存档根目录`生成 `naiwazi_anticheat_xxx.xml` 配置文件, 请参照配置文件中的注释耐心配置, 默认的日志文件也会在同文件夹下生成, 任何对设置的改动，除注释中有说明外，其余均实时生效，无需重启服务端。<br /><br />
+将`Naiwazi_AntiCheat`文件夹拷贝进服务端根目录的Mods文件夹, 运行服务端即可，第一次运行会在`存档根目录`生成 `naiwazi_anticheat_xxx.xml` 配置文件, 请参照配置文件中的注释耐心配置, 默认的日志文件也会在同文件夹下生成, 任何对设置的改动，除注释中有说明外，其余均实时生效，无需重启服务端。<br />
+注意：国内服主首次运行请仔细配置文件，配置文件中有详细说明，白名单一定要配置好，语言改成cn，不然出来的任何提示全是英文。
+<br /><br />
 Copy the folder `Naiwazi_AntiCheat` to GameFolder/Mods, then run the server. `naiwazi_anticheat_xxx.xml` will be generated in `GAME SAVING FOLDER` when you first run the mod. Please edit it carefully according to the comment. log files will also be generated in the same folder by default. Any change of the xml file do not need to restart the server.<br />
 <br />
 <br />
@@ -50,7 +52,7 @@ Copy the folder `Naiwazi_AntiCheat` to GameFolder/Mods, then run the server. `na
 隐身模式检测需要作弊者开启后载入下一个chunk即可被检测到，飞行模式检测还在测试中，这个版本请勿使用。<br />
 <br />
 NOTE:<br />
-Invisible mode detection need cheaters load the a new chunk. Fly mode detection is in testing, do not enable it in this version.<br />
+Invisible mode detection need cheaters loading a new chunk. Fly mode detection is in testing, do not enable it in this version.<br />
 <br />
 联系方式: shyerzone@gmail.com <br />
 Contact: shyerzone@gmail.com <br />
