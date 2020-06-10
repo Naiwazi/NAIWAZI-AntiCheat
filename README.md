@@ -12,7 +12,7 @@ GOD mode and INVISIBLE mode detection is also supported<br />
 Stack Overflow can be checked to prevent server from crashing!<br />
 可以检测人物档和储物箱熔炉等地图容器中的物品超叠,支持自动删除问题物品,防止超叠引起的服务器崩溃及红字。<br />
 <br />
-Paramters can be set by yourself, and log files will show you the details of what happend <br />
+Paramters can be set by yourself, and log files will show you the details of what happend, Additionally, Console command is also supported (command: naiwazi_anticheat), any server tools or manage tools can get infomation through Telnet or web console.<br />
 可自由设置反作弊的各种参数, 日志文件会记录下每一个细节, 另外还提供后台命令API方式(后台命令naiwazi_anticheat)，通过可登录TELNET的服主工具或者自用工具拉取信息。<br />
 <br />
 Do not need any depends<br />
