@@ -52,7 +52,7 @@ Copy the folder `Naiwazi_AntiCheat` to GameFolder/Mods, then run the server. `na
 隐身模式检测需要作弊者开启后载入下一个chunk即可被检测到，飞行模式检测还在测试中，这个版本请勿使用。<br />
 <br />
 NOTE:<br />
-Invisible mode detection need cheaters loading a new chunk. Fly mode detection is in testing, do not enable it in this version.<br />
+Invisible mode detection required cheaters loading a new chunk. Fly mode detection is in testing, do not enable it in this version.<br />
 <br />
 联系方式: shyerzone@gmail.com <br />
 Contact: shyerzone@gmail.com <br />
