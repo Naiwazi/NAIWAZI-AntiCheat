@@ -4,22 +4,22 @@ This is an Anti-Cheat MOD for 7 Days to Die Dedicated Server, [Download](https:/
 这是一款用于七日杀服务器端的反作弊插件, [点此下载](https://github.com/Naiwazi/NAIWAZI-AntiCheat/releases/download/V1.1.0/Naiwazi_AntiCheat.zip)<br />
 <br />
 v1.1.0 Updates<br />
-v1.1.0 更新内容<br />
+v1.1.0 更新内容<br /><br />
 1.Single block damage checking<br />
-1.单物块伤害检测<br />
+1.单物块伤害检测<br /><br />
 2.Single entity damage checking<br />
-2.实体伤害检测<br />
+2.实体伤害检测<br /><br />
 3.Multiple blocks removement checking, it can prevent buildings or blocks from being removed by "k KEY" or the tool "meleeToolBlockReplaceTool" in the NETWORK LAYER<br />
-3.多物块消除检测，完全免疫替换扳手和K键拆家，当K键拆家时，会拒绝相应的同步请求。<br />
+3.多物块消除检测，完全免疫替换扳手和K键拆家，当K键拆家时，会拒绝相应的同步请求。<br /><br />
 4.prevent players or entities from being killed by the 'kill' or 'killall' command excuted by local console<br />
-4.屏蔽本地执行'kill'或者'killall'杀死实体或者玩家<br />
+4.屏蔽本地执行'kill'或者'killall'杀死实体或者玩家<br /><br />
 5.checking for player's attribute including health, level, jump strength, speed and so on<br />
-5.人物属性包括血量，等级，跳跃高度，速度检测<br />
+5.人物属性包括血量，等级，跳跃高度，速度检测<br /><br />
 6.checking for skill points<br />
-6.技能点检测<br />
+6.技能点检测<br /><br />
 NOTE: any details of the configuration refers to the config file(XML). If any warnings about HOOK appeared, that is means the related method is hooked by other mods, the option will not be effected.<br />
 详细说明请参照配置文件，载入时如果有黄字关于HOOK的错误，说明已经有MOD进行了相关函数的HOOK，相关功能就不能生效了<br />
-<br />
+<br /><br />
 `It not only can check players' inventory but also can check the loots on map`<br />
 `它不仅可以检测玩家的背包物品，还可以检测地图上的储物容器，包括储物箱，上锁储物箱，熔炉工作台等等`<br />
 <br />
