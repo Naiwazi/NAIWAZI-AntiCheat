@@ -1,7 +1,7 @@
 # NAIWAZI-AntiCheat For 7DTD A18.4 && NAIWAZI-反作弊 支持 七日杀A18.4
 
 This is an Anti-Cheat MOD for 7 Days to Die Dedicated Server, [Download](https://github.com/Naiwazi/NAIWAZI-AntiCheat/releases/download/v1.0.0/Naiwazi_AntiCheat.zip)<br />
-这是一款用于七日杀服务器端的反作弊插件, [点此下载](https://github.com/Naiwazi/NAIWAZI-AntiCheat/releases/download/v1.1.0/Naiwazi_AntiCheat.zip)<br />
+这是一款用于七日杀服务器端的反作弊插件, [点此下载](https://github.com/Naiwazi/NAIWAZI-AntiCheat/releases/download/V1.1.0/Naiwazi_AntiCheat.zip)<br />
 <br />
 v1.1.0 Updates<br />
 v1.1.0 更新内容<br />
@@ -15,7 +15,7 @@ v1.1.0 更新内容<br />
 4.屏蔽本地执行'kill'或者'killall'杀死实体或者玩家<br />
 5.checking for player's attribute including health, level, jump strength, speed and so on<br />
 5.人物属性包括血量，等级，跳跃高度，速度检测<br />
-checking for skill points<br />
+6.checking for skill points<br />
 6.技能点检测<br />
 NOTE: any details of the configuration refers to the config file(XML). If any warnings about HOOK appeared, that is means the related method is hooked by other mods, the option will not be effected.<br />
 详细说明请参照配置文件，载入时如果有黄字关于HOOK的错误，说明已经有MOD进行了相关函数的HOOK，相关功能就不能生效了<br />
