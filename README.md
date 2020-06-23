@@ -24,7 +24,7 @@ Do not need any depends<br />
 `使用方法: `<br />
 <br />
 <br />
-Copy the folder `Naiwazi_AntiCheat` to GameFolder/Mods, then run the server. `naiwazi_anticheat_xxx.xml` will be generated in `GAME SAVING FOLDER` when you first run the mod. Please edit it carefully according to the comment. log files will also be generated in the same folder by default. Any change of the xml file do not need to restart the server.<br /><br />
+Copy the folder `Naiwazi_AntiCheat` to GameFolder/Mods, then run the server. `naiwazi_anticheat_xxx.xml` will be generated in `GAME SAVING FOLDER` when you first run the mod. Please edit it carefully refers to the comment. log files will also be generated in the same folder by default. Any change of the xml file do not need to restart the server.<br /><br />
 将`Naiwazi_AntiCheat`文件夹拷贝进服务端根目录的Mods文件夹, 运行服务端即可，第一次运行会在`存档根目录`生成 `naiwazi_anticheat_xxx.xml` 配置文件, 请参照配置文件中的注释耐心配置, 默认的日志文件也会在同文件夹下生成, 任何对设置的改动，除注释中有说明外，其余均实时生效，无需重启服务端。<br />
 注意：国内服主首次运行请仔细配置文件，配置文件中有详细说明，白名单一定要配置好，语言改成cn，不然出来的任何提示全是英文。
 <br />
