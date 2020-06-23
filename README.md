@@ -1,5 +1,5 @@
 # NAIWAZI-AntiCheat For 7DTD A18.4 && NAIWAZI-反作弊 支持 七日杀A18.4
----
+
 This is an Anti-Cheat MOD for 7 Days to Die Dedicated Server, [Download](https://github.com/Naiwazi/NAIWAZI-AntiCheat/releases/download/v1.0.0/Naiwazi_AntiCheat.zip)<br />
 这是一款用于七日杀服务器端的反作弊插件, [点此下载](https://github.com/Naiwazi/NAIWAZI-AntiCheat/releases/download/v1.1.0/Naiwazi_AntiCheat.zip)<br />
 <br />
