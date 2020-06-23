@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="NAIWAZI Anti-Cheat" />
+		<Description value="Both with commands and auto-detect for server operation" />
+		<Author value="NAIWAZI_Rainyeve" />
+		<Version value="1.0.0" />
+		<Website value="shyerzone@gmail.com" />
+	</ModInfo>
+</xml>
