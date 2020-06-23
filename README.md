@@ -19,8 +19,7 @@ checking for skill points<br />
 6.技能点检测<br />
 NOTE: any details of the configuration refers to the config file(XML). If any warnings about HOOK appeared, that is means the related method is hooked by other mods, the option will not be effected.<br />
 详细说明请参照配置文件，载入时如果有黄字关于HOOK的错误，说明已经有MOD进行了相关函数的HOOK，相关功能就不能生效了<br />
-
- <br />
+<br />
 `It not only can check players' inventory but also can check the loots on map`<br />
 `它不仅可以检测玩家的背包物品，还可以检测地图上的储物容器，包括储物箱，上锁储物箱，熔炉工作台等等`<br />
 <br />
